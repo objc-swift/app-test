@@ -32,15 +32,15 @@
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>bundleID</string>
+                        <string>com.mvc.cryptovault</string>
                         <key>bundle-version</key>
-                        <string>版本号</string>
+                        <string>1.0</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>subtitle</key>
                         <string>App</string>
                         <key>title</key>
-                        <string>名称</string>
+                        <string>BZTt</string>
                     </dict>
                 </dict>
             </array>
